@@ -1,90 +1,44 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:007AFF,100:AF52DE&height=190&section=header&text=Germán%20Andrés%20López&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Frontend%20Developer%20%26%20Data%20Analyst&descAlignY=62&descSize=18" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:007AFF,100:AF52DE&height=190&section=header&text=Germ%C3%A1n%20Andr%C3%A9s%20L%C3%B3pez&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Frontend%20Developer%20%26%20Data%20Analyst&descAlignY=62&descSize=18" alt="Germán Andrés López" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=22&pause=1200&color=007AFF&center=true&vCenter=true&width=560&lines=Frontend+Developer;Data+Analyst;React+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+SQL+%C2%B7+Power+BI;Turning+data+into+decisions" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-%F0%9F%9F%A2%20Available%20for%20new%20projects-34C759?style=flat-square&labelColor=1c1c1e" alt="Available" />
-</p>
+### 👋 About
 
-<br>
+*Frontend developer and data analyst.*
 
-<sub>**ABOUT ME**</sub>
-
-> Frontend developer and data analyst focused on building modern web interfaces and turning raw data into clear, useful insights.
+Focused on building modern web interfaces and turning raw data into clear, useful insights.
 
 - 🔭  Working on personal projects and continuous learning
 - 🌱  Exploring new tools across the frontend and data ecosystems
 - 💬  Ask me about JavaScript, TypeScript, React, Python, SQL or Power BI
 - ✉️  germangraphs@gmail.com
 
-<br>
+### 🧩 Stack
 
-<sub>**STACK**</sub>
+*Tools I use most.*
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-FFCC00?style=flat-square&logo=javascript&logoColor=white" width="52" height="24" alt="" /><br>
-      <sub>JavaScript</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-007AFF?style=flat-square&logo=typescript&logoColor=white" width="52" height="24" alt="" /><br>
-      <sub>TypeScript</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-30B0C7?style=flat-square&logo=react&logoColor=white" width="52" height="24" alt="" /><br>
-      <sub>React</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-34C759?style=flat-square&logo=node.js&logoColor=white" width="52" height="24" alt="" /><br>
-      <sub>Node.js</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-FF9500?style=flat-square&logo=html5&logoColor=white" width="52" height="24" alt="" /><br>
-      <sub>HTML5</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-5856D6?style=flat-square&logo=css3&logoColor=white" width="52" height="24" alt="" /><br>
-      <sub>CSS3</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-FF2D55?style=flat-square&logo=git&logoColor=white" width="52" height="24" alt="" /><br>
-      <sub>Git</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-8E8E93?style=flat-square&logo=docker&logoColor=white" width="52" height="24" alt="" /><br>
-      <sub>Docker</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-007AFF?style=flat-square&logo=python&logoColor=white" width="52" height="24" alt="" /><br>
-      <sub>Python</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-5856D6?style=flat-square&logo=mysql&logoColor=white" width="52" height="24" alt="" /><br>
-      <sub>SQL</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-FF9500?style=flat-square&logo=powerbi&logoColor=white" width="52" height="24" alt="" /><br>
-      <sub>Power BI</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-34C759?style=flat-square&logo=pandas&logoColor=white" width="52" height="24" alt="" /><br>
-      <sub>Pandas</sub>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img height="28" src="https://img.shields.io/badge/-JavaScript-FFCC00?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img height="28" src="https://img.shields.io/badge/-TypeScript-007AFF?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img height="28" src="https://img.shields.io/badge/-React-30B0C7?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img height="28" src="https://img.shields.io/badge/-Node.js-34C759?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img height="28" src="https://img.shields.io/badge/-HTML5-FF9500?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img height="28" src="https://img.shields.io/badge/-CSS3-5856D6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img height="28" src="https://img.shields.io/badge/-Git-FF2D55?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img height="28" src="https://img.shields.io/badge/-Docker-8E8E93?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img height="28" src="https://img.shields.io/badge/-Python-007AFF?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img height="28" src="https://img.shields.io/badge/-SQL-5856D6?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img height="28" src="https://img.shields.io/badge/-Power%20BI-FF9500?style=flat-square" alt="Power BI" />
+  <img height="28" src="https://img.shields.io/badge/-Pandas-34C759?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
 
-<br>
+### 📊 GitHub Stats
 
-<sub>**GITHUB STATS**</sub>
+*A live snapshot of my activity.*
 
 <p align="left">
   <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=GermanAndresLopez&show_icons=true&theme=github_dark&hide_border=true&title_color=007AFF&icon_color=007AFF&text_color=8E8E93&bg_color=00000000" alt="GitHub stats" height="165" />
@@ -102,9 +56,9 @@
   </picture>
 </p>
 
-<br>
+### 🚀 Featured Projects
 
-<sub>**FEATURED PROJECTS**</sub>
+*A few things I've built.*
 
 | | |
 |---|---|
@@ -116,9 +70,7 @@
 | **[NeuroExplora](https://github.com/GermanAndresLopez/NeuroExplora)** › | Web project built with HTML |
 | **[SistemaPQR](https://github.com/GermanAndresLopez/SistemaPQR)** › | Requests, complaints and claims (PQR) system, built with JavaScript |
 
-<br>
-
-<sub>**CONTACT**</sub>
+### ✉️ Contact
 
 <p align="left">
   <a href="mailto:germangraphs@gmail.com">
