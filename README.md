@@ -45,6 +45,12 @@ Focused on building modern web interfaces and turning raw data into clear, usefu
   </picture>
 </p>
 
+<p align="center">
+  <a href="https://github.com/germanandreslopez">
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=germanandreslopez&theme=catppuccin&headerStyle=mac&typingSpeed=60&hostname=github.com&commands=neofetch%2Clanguages%2Cuptime%2Cexit" alt="GitHub Stats Terminal" />
+  </a>
+</p>
+
 ### 🚀 Featured Projects
 
 *A few things I've built.*
