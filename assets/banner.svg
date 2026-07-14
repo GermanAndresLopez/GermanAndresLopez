@@ -1,0 +1,82 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#007AFF"/>
+      <stop offset="100%" stop-color="#AF52DE"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect width="900" height="220" rx="28"/>
+    </clipPath>
+    <style>
+      .title {
+        font: 700 40px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+        fill: #ffffff;
+        animation: fadeInUp 0.9s ease-out 0.15s forwards;
+      }
+      .subtitle {
+        font: 500 20px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+        fill: rgba(255,255,255,0.9);
+        animation: fadeInUp 0.9s ease-out 0.55s forwards;
+      }
+      @keyframes fadeInUp {
+        from { opacity: 0; transform: translateY(14px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+      .glow {
+        animation: drift 9s ease-in-out infinite;
+      }
+      @keyframes drift {
+        0%, 100% { transform: translate(0px, 0px); }
+        50%      { transform: translate(90px, -20px); }
+      }
+      .chip {
+        transform-origin: center;
+        animation: floaty 3.6s ease-in-out infinite;
+      }
+      .chip.d1 { animation-delay: 0s; }
+      .chip.d2 { animation-delay: 0.5s; }
+      .chip.d3 { animation-delay: 1s; }
+      .chip.d4 { animation-delay: 1.5s; }
+      .chip.d5 { animation-delay: 2s; }
+      @keyframes floaty {
+        0%, 100% { transform: translateY(0px); }
+        50%      { transform: translateY(-10px); }
+      }
+      .chiptext {
+        font: 600 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+        fill: #ffffff;
+        text-anchor: middle;
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="900" height="220" fill="url(#bg)"/>
+    <circle class="glow" cx="140" cy="190" r="150" fill="#ffffff" opacity="0.10"/>
+    <circle class="glow" cx="760" cy="20" r="120" fill="#ffffff" opacity="0.08" style="animation-delay:-4s"/>
+
+    <text x="56" y="112" class="title">Germán Andrés López</text>
+    <text x="58" y="145" class="subtitle">Frontend Developer &amp; Data Analyst</text>
+
+    <g class="chip d1">
+      <rect x="646" y="28" width="72" height="72" rx="18" fill="rgba(255,255,255,0.18)"/>
+      <text x="682" y="70" class="chiptext">JS</text>
+    </g>
+    <g class="chip d2">
+      <rect x="726" y="70" width="72" height="72" rx="18" fill="rgba(255,255,255,0.18)"/>
+      <text x="762" y="112" class="chiptext">TS</text>
+    </g>
+    <g class="chip d3">
+      <rect x="646" y="112" width="72" height="72" rx="18" fill="rgba(255,255,255,0.18)"/>
+      <text x="682" y="154" class="chiptext">⚛</text>
+    </g>
+    <g class="chip d4">
+      <rect x="806" y="28" width="72" height="72" rx="18" fill="rgba(255,255,255,0.18)"/>
+      <text x="842" y="70" class="chiptext">PY</text>
+    </g>
+    <g class="chip d5">
+      <rect x="806" y="112" width="72" height="72" rx="18" fill="rgba(255,255,255,0.18)"/>
+      <text x="842" y="154" class="chiptext">SQL</text>
+    </g>
+  </g>
+</svg>

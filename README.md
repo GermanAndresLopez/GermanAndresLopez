@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:007AFF,100:AF52DE&height=190&section=header&text=Germ%C3%A1n%20Andr%C3%A9s%20L%C3%B3pez&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Frontend%20Developer%20%26%20Data%20Analyst&descAlignY=62&descSize=18" alt="Germán Andrés López" />
+  <img src="assets/banner.svg" alt="Germán Andrés López — Frontend Developer & Data Analyst" width="100%" />
 </p>
 
 <p align="center">
@@ -21,19 +21,8 @@ Focused on building modern web interfaces and turning raw data into clear, usefu
 
 *Tools I use most.*
 
-<p align="left">
-  <img height="28" src="https://img.shields.io/badge/-JavaScript-FFCC00?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img height="28" src="https://img.shields.io/badge/-TypeScript-007AFF?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img height="28" src="https://img.shields.io/badge/-React-30B0C7?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img height="28" src="https://img.shields.io/badge/-Node.js-34C759?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img height="28" src="https://img.shields.io/badge/-HTML5-FF9500?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img height="28" src="https://img.shields.io/badge/-CSS3-5856D6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img height="28" src="https://img.shields.io/badge/-Git-FF2D55?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img height="28" src="https://img.shields.io/badge/-Docker-8E8E93?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img height="28" src="https://img.shields.io/badge/-Python-007AFF?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img height="28" src="https://img.shields.io/badge/-SQL-5856D6?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  <img height="28" src="https://img.shields.io/badge/-Power%20BI-FF9500?style=flat-square" alt="Power BI" />
-  <img height="28" src="https://img.shields.io/badge/-Pandas-34C759?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<p align="center">
+  <img src="assets/stack.svg" alt="JavaScript, TypeScript, React, Node.js, Python, SQL, Power BI, Git" width="100%" />
 </p>
 
 ### 📊 GitHub Stats
