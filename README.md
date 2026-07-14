@@ -3,6 +3,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/germanandreslopez">
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=germanandreslopez&theme=catppuccin&headerStyle=mac&typingSpeed=60&hostname=github.com&commands=neofetch%2Clanguages%2Cuptime%2Cexit" alt="GitHub Stats Terminal" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=22&pause=1200&color=007AFF&center=true&vCenter=true&width=560&lines=Frontend+Developer;Data+Analyst;React+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+SQL+%C2%B7+Power+BI;Turning+data+into+decisions" alt="Typing SVG" />
 </p>
 
@@ -43,12 +49,6 @@ Focused on building modern web interfaces and turning raw data into clear, usefu
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GermanAndresLopez/GermanAndresLopez/output/github-contribution-grid-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/GermanAndresLopez/GermanAndresLopez/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
   </picture>
-</p>
-
-<p align="center">
-  <a href="https://github.com/germanandreslopez">
-    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=germanandreslopez&theme=catppuccin&headerStyle=mac&typingSpeed=60&hostname=github.com&commands=neofetch%2Clanguages%2Cuptime%2Cexit" alt="GitHub Stats Terminal" />
-  </a>
 </p>
 
 ### 🚀 Featured Projects
