@@ -1,37 +1,80 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Germán%20Andrés%20López&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:007AFF,100:AF52DE&height=190&section=header&text=Germán%20Andrés%20López&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=iOS-inspired%20developer%20profile&descAlignY=62&descSize=18" alt="Header banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Desarrollador+Web+%F0%9F%92%BB;JavaScript+%7C+TypeScript+%7C+React+%7C+Node.js;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=22&pause=1200&color=007AFF&center=true&vCenter=true&width=560&lines=Desarrollador+Web;JavaScript+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Node.js;Aprendiendo+algo+nuevo+cada+d%C3%ADa" alt="Typing SVG" />
 </p>
 
-- 🔭 Actualmente trabajando en proyectos personales y de aprendizaje continuo
-- 🌱 Aprendiendo nuevas herramientas del ecosistema JS/TS
-- 💬 Pregúntame sobre JavaScript, TypeScript, React o Node.js
-- 📫 Cómo contactarme: germangraphs@gmail.com
-
-## 🛠️ Tecnologías
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<p align="center">
+  <img src="https://img.shields.io/badge/-%F0%9F%9F%A2%20Disponible%20para%20nuevos%20proyectos-34C759?style=flat-square&labelColor=1c1c1e" alt="Disponible" />
 </p>
 
-## 📊 Estadísticas de GitHub
+<br>
+
+<sub>**SOBRE MÍ**</sub>
+
+> Desarrollador web enfocado en **JavaScript** y **TypeScript**, creando aplicaciones modernas y cuidando cada detalle de la experiencia.
+
+- 🔭  Trabajando en proyectos personales y de aprendizaje continuo
+- 🌱  Explorando nuevas herramientas del ecosistema JS/TS
+- 💬  Pregúntame sobre JavaScript, TypeScript, React o Node.js
+- ✉️  germangraphs@gmail.com
+
+<br>
+
+<sub>**STACK**</sub>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/-FFCC00?style=flat-square&logo=javascript&logoColor=white" width="52" height="24" alt="" /><br>
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/-007AFF?style=flat-square&logo=typescript&logoColor=white" width="52" height="24" alt="" /><br>
+      <sub>TypeScript</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/-30B0C7?style=flat-square&logo=react&logoColor=white" width="52" height="24" alt="" /><br>
+      <sub>React</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/-34C759?style=flat-square&logo=node.js&logoColor=white" width="52" height="24" alt="" /><br>
+      <sub>Node.js</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/-FF9500?style=flat-square&logo=html5&logoColor=white" width="52" height="24" alt="" /><br>
+      <sub>HTML5</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/-5856D6?style=flat-square&logo=css3&logoColor=white" width="52" height="24" alt="" /><br>
+      <sub>CSS3</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/-FF2D55?style=flat-square&logo=git&logoColor=white" width="52" height="24" alt="" /><br>
+      <sub>Git</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/-8E8E93?style=flat-square&logo=docker&logoColor=white" width="52" height="24" alt="" /><br>
+      <sub>Docker</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<sub>**ESTADÍSTICAS**</sub>
 
 <p align="left">
-  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=GermanAndresLopez&show_icons=true&theme=default" alt="Estadísticas de GitHub" height="165" />
-  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=GermanAndresLopez&layout=compact&theme=default" alt="Lenguajes más usados" height="165" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=GermanAndresLopez&show_icons=true&theme=github_dark&hide_border=true&title_color=007AFF&icon_color=007AFF&text_color=8E8E93&bg_color=00000000" alt="Estadísticas de GitHub" height="165" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=GermanAndresLopez&layout=compact&theme=github_dark&hide_border=true&title_color=007AFF&text_color=8E8E93&bg_color=00000000" alt="Lenguajes más usados" height="165" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=GermanAndresLopez&theme=default" alt="Racha de contribuciones" />
+  <img src="https://streak-stats.demolab.com/?user=GermanAndresLopez&theme=github-dark-blue&hide_border=true&background=00000000&ring=007AFF&fire=FF9500&currStreakLabel=007AFF" alt="Racha de contribuciones" />
 </p>
 
 <p align="center">
@@ -41,20 +84,35 @@
   </picture>
 </p>
 
-## 🚀 Proyectos destacados
+<br>
 
-- **[Portfolio](https://github.com/GermanAndresLopez/Portfolio)** — Mi portafolio personal actualizado 2025, construido con TypeScript.
-- **[GlTV Mobile App](https://github.com/GermanAndresLopez/GlTV-Mobile-App)** — Aplicación móvil desarrollada en Dart/Flutter.
-- **[GlTV Web Version](https://github.com/GermanAndresLopez/GlTV--web-version)** — Versión web de GlTV, construida en JavaScript.
-- **[Dashboard E-R](https://github.com/GermanAndresLopez/Dashboard--E-R)** — Dashboard de visualización de estadísticas de energía eólica y renovable, con Power BI, Supabase y Vite.
-- **[Dashboard Temperaturas](https://github.com/GermanAndresLopez/Dashboard-Temperaturas)** — Dashboard creado con Power BI, base de datos en la nube (Supabase) y frontend con Vite.
-- **[NeuroExplora](https://github.com/GermanAndresLopez/NeuroExplora)** — Proyecto web construido con HTML.
-- **[SistemaPQR](https://github.com/GermanAndresLopez/SistemaPQR)** — Sistema de Peticiones, Quejas y Reclamos (PQR), construido con JavaScript.
+<sub>**PROYECTOS DESTACADOS**</sub>
 
-## 📫 Contacto
+| | |
+|---|---|
+| **[Portfolio](https://github.com/GermanAndresLopez/Portfolio)** › | Mi portafolio personal actualizado 2025, construido con TypeScript |
+| **[GlTV Mobile App](https://github.com/GermanAndresLopez/GlTV-Mobile-App)** › | Aplicación móvil desarrollada en Dart/Flutter |
+| **[GlTV Web Version](https://github.com/GermanAndresLopez/GlTV--web-version)** › | Versión web de GlTV, construida en JavaScript |
+| **[Dashboard E-R](https://github.com/GermanAndresLopez/Dashboard--E-R)** › | Visualización de estadísticas de energía eólica y renovable — Power BI, Supabase, Vite |
+| **[Dashboard Temperaturas](https://github.com/GermanAndresLopez/Dashboard-Temperaturas)** › | Dashboard con Power BI, base de datos en la nube (Supabase) y frontend con Vite |
+| **[NeuroExplora](https://github.com/GermanAndresLopez/NeuroExplora)** › | Proyecto web construido con HTML |
+| **[SistemaPQR](https://github.com/GermanAndresLopez/SistemaPQR)** › | Sistema de Peticiones, Quejas y Reclamos, construido con JavaScript |
+
+<br>
+
+<sub>**CONTACTO**</sub>
 
 <p align="left">
   <a href="mailto:germangraphs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-Mail-007AFF?style=flat-square&logo=apple&logoColor=white" alt="Mail" />
   </a>
+  <a href="https://github.com/GermanAndresLopez">
+    <img src="https://img.shields.io/badge/-GitHub-1c1c1e?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <sub>Hecho con 💙 — inspirado en el diseño de iOS</sub>
 </p>
