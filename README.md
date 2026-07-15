@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/germanandreslopez">
-    <img src="https://terminal-readme-github-stats.vercel.app/api/stats?username=GermanAndresLopez&theme=material&headerStyle=mac&art=photo&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Cexit)](https://github.com/GermanAndresLopez" alt="GitHub Stats Terminal" />
+    <img src="[![GitHub Stats Terminal](https://terminal-readme-github-stats.vercel.app/api/stats?username=GermanAndresLopez&theme=material&headerStyle=mac&art=photo&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Cexit)](https://github.com/GermanAndresLopez)" alt="GitHub Stats Terminal" />
   </a>
 </p>
 
